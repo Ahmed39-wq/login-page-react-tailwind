@@ -2,7 +2,7 @@ import Form from "./components/Form"
 
 function App() {
   return (
-    <div className="flex w-ful h-screen bg-[#f1f1f1]">
+    <div className="flex w-full h-screen bg-[#f1f1f1]">
       <div className="w-full flex items-center justify-center lg:w-1/2">
         <Form />
       </div>
